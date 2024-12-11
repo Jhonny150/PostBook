@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "titulo": "Mi CASA",
+        "descripcion": "Esta es mi nueva casa",
+        "imagen": "casa.jpg",
+        "fecha_creacion": "2024-12-11 02:23:41",
+        "usuario_id": "gerita@gmail.com"
+    },
+    {
+        "id": 2,
+        "titulo": "Mi carro",
+        "descripcion": "Este es mi carro",
+        "imagen": "carro.jpg",
+        "fecha_creacion": "2024-12-11 02:24:14",
+        "usuario_id": "gerita@gmail.com"
+    },
+    {
+        "id": 3,
+        "titulo": "Este es un juego",
+        "descripcion": "Este es un juego",
+        "imagen": "kratos.jpg",
+        "fecha_creacion": "2024-12-11 02:24:56",
+        "usuario_id": "jhon@gmail.com"
+    }
+]
